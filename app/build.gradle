@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.hola.mundo'
+    namespace 'com.hola.taller1'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.hola.mundo"
-        minSdk 19
+        applicationId "com.hola.taller1"
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"
